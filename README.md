@@ -6,14 +6,14 @@
 ├── base                                   // 定义游戏开发基础类
 │   ├── animatoin.js                       // 帧动画的简易实现
 │   ├── pool.js                            // 对象池的简易实现
-│   └── sprite.js                          // 游戏基本元素精灵类
+│   └── sprite.js                          // 游戏基本元素
 ├── libs
 │   ├── symbol.js                          // ES6 Symbol简易兼容
 │   └── weapp-adapter.js                   // 小游戏适配器
 ├── npc
-│   └── enemy.js                           // 敌机类
+│   └── enemy.js                           //
 ├── player
-│   ├── bullet.js                          // 子弹类
+│   ├── bullet.js                          // 
 │   └── index.js                           // 玩家类
 ├── runtime
 │   ├── background.js                      // 背景类
