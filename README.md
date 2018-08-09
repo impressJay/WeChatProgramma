@@ -23,3 +23,5 @@
 └── main.js                                // 游戏入口主函数
 
 ```
+
+![Image text](https://github.com/impressJay/QT5AlbumBrowsers/raw/master/SmoveWeChatGame8.png)
