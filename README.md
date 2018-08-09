@@ -24,4 +24,4 @@
 
 ```
 
-![Image text](https://github.com/impressJay/QT5AlbumBrowsers/raw/master/SmoveWeChatGame8.png)
+![Image text](https://github.com/impressJay/WeChatProgramma/raw/master/SmoveWeChatGame8.png)
